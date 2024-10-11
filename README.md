@@ -4,3 +4,5 @@ Have a smooth voice speaking experience with Mixtral-8x7B-Instruct, on CPU envir
 Need to retrive HF token from hungging face, now worrries it is FREE, and no cost at all.
 
 see how via this [link](https://huggingface.co/docs/hub/en/security-tokens)
+
+{Add small chunks of textual data that AI model would not probably know in the info.md file}
